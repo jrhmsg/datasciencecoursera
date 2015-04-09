@@ -1,0 +1,26 @@
+
+## This is a markdown file
+
+
+This is a sample list
+
+* Markdown is easy
+* Markdown is fast
+
+```
+This a box with text
+```
+
+To find out more, review the README file under https://github.com/github/markup/tree/master#html-sanitization 
+
+| Key |   Use  |
+|-----|-------|
+| * | Bulleted List |
+| 1. | Numbered List |
+| # | Header (1st Level) |
+| ## | Header (2nd Level) |
+| ``` | start or end text box | 
+
+1. test
+1. retest
+
